@@ -2,6 +2,25 @@
 
  A list of (mostly) tech related resources I've compiled over the years. This includes mailing lists, networks / communities, and coding practice websites.
 
+ # Everyboday
+
+ ### Coding Practice
+
+- https://codefights.com/
+- https://www.hackerrank.com/
+- https://www.geeksforgeeks.org/
+- https://coderbyte.com/
+- https://www.codewars.com/
+
+### Networks / Communities
+
+- https://dev.to/about
+
+### Mailing Lists
+
+- [The Morning Paper](https://blog.acolyer.org/email-subs/)
+- https://char.gd/
+- https://www.infoq.com/
 
 ## Ladies / Non-binary
 
