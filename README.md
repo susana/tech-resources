@@ -22,6 +22,11 @@
 - https://char.gd/
 - https://www.infoq.com/
 
+### Development Environment Themes
+
+- https://github.com/soft-aesthetic
+- https://github.com/sailorhg/fairyfloss
+
 ## Ladies / Non-binary
 
 ### Networks / Communities
