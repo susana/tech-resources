@@ -1,10 +1,16 @@
 # Resources
 
- A list of (mostly) tech related resources I've compiled over the years. This includes mailing lists, networks / communities, and coding practice websites.
+A list of (mostly) tech related resources I've compiled over the years. This includes mailing lists, networks / communities, and coding practice websites.
 
- # Everyboday
+🌟Please feel free to make a PR and add resources you've come across!
 
- ### Coding Practice
+## Everyboday
+
+### Courses
+
+- https://egghead.io/
+
+### Coding Practice
 
 - https://codefights.com/
 - https://www.hackerrank.com/
@@ -38,6 +44,6 @@
 - https://www.the-wing.com/
 - http://highteatalks.nyc/
 
-### (Exclusively) Mailing Lists
+### Mailing Lists
 
 - https://tinyletter.com/ladylistny
