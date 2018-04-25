@@ -21,6 +21,7 @@ A list of (mostly) tech related resources I've compiled over the years. This inc
 ### Networks / Communities
 
 - https://dev.to/about
+- http://highteatalks.nyc/
 
 ### Mailing Lists
 
@@ -42,7 +43,6 @@ A list of (mostly) tech related resources I've compiled over the years. This inc
 - https://www.womenwhocode.com/
 - https://www.writespeakcode.com/
 - https://www.the-wing.com/
-- http://highteatalks.nyc/
 
 ### Mailing Lists
 
