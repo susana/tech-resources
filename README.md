@@ -43,6 +43,7 @@ A list of (mostly) tech related resources I've compiled over the years. This inc
 - https://www.womenwhocode.com/
 - https://www.writespeakcode.com/
 - https://www.the-wing.com/
+- https://www.latinasintech.org/
 
 ### Mailing Lists
 
