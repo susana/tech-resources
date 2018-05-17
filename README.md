@@ -45,6 +45,12 @@ A list of (mostly) tech related resources I've compiled over the years. This inc
 - https://www.the-wing.com/
 - https://www.latinasintech.org/
 
+### Jobs
+
+- https://www.womenwhocode.com/jobs
+- https://www.womenhack.com
+- https://www.hiretechladies.com/jobs
+
 ### Mailing Lists
 
 - https://tinyletter.com/ladylistny
