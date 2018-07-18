@@ -9,6 +9,7 @@ A list of (mostly) tech related resources I've compiled over the years. This inc
 ### Courses
 
 - https://egghead.io/
+- https://teamtreehouse.com/home
 
 ### Coding Practice
 
