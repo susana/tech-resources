@@ -6,6 +6,10 @@ A list of (mostly) tech related resources I've compiled over the years. This inc
 
 ## Everyboday
 
+### Conferences
+
+- http://www.confercal.com/ (A conference calendar for various topics!)
+
 ### Courses
 
 - https://egghead.io/
