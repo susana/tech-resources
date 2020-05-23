@@ -35,6 +35,11 @@ A list of (mostly) tech related resources I've compiled over the years. This inc
 - https://char.gd/
 - https://www.infoq.com/
 
+### Job boards
+
+- https://jobs.github.com/
+- https://stackoverflow.com/jobs
+
 ### Development Environment Themes
 
 - https://github.com/soft-aesthetic
