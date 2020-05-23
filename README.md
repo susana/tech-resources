@@ -8,7 +8,8 @@ A list of (mostly) tech related resources I've compiled over the years. This inc
 
 ### Conferences
 
-- http://www.confercal.com/ (A conference calendar for various topics!)
+- http://www.confercal.com/
+- https://confs.tech/
 
 ### Courses
 
@@ -17,6 +18,7 @@ A list of (mostly) tech related resources I've compiled over the years. This inc
 
 ### Coding Practice
 
+- https://www.100daysofcode.com/, https://twitter.com/hashtag/100daysofcode
 - https://codefights.com/
 - https://www.hackerrank.com/
 - https://www.geeksforgeeks.org/
