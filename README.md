@@ -28,6 +28,7 @@ A list of (mostly) tech related resources I've compiled over the years. This inc
 ### Networks / Communities
 
 - https://dev.to/about
+- https://www.codenewbie.org/
 
 ### Mailing Lists
 
