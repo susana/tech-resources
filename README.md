@@ -36,6 +36,10 @@ A list of (mostly) tech related resources I've compiled over the years. This inc
 - https://char.gd/
 - https://www.infoq.com/
 
+### Open Source
+
+- https://www.codetriage.com/
+
 ### Jobs
 
 - https://github.com/poteto/hiring-without-whiteboards
