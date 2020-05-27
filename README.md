@@ -35,8 +35,9 @@ A list of (mostly) tech related resources I've compiled over the years. This inc
 - https://char.gd/
 - https://www.infoq.com/
 
-### Job boards
+### Jobs
 
+- https://github.com/poteto/hiring-without-whiteboards
 - https://jobs.github.com/
 - https://stackoverflow.com/jobs
 
